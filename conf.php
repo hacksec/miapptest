@@ -1,7 +1,7 @@
 <?php
 
-      define('_CONSUMER_KEY','xxxxxxxxxxxxxxxx');
-      define('_CONSUMER_SECRET','xxxxxxxxxxxxxxxxxxxxxxxxxxx');
+      define('_CONSUMER_KEY','479949192075665');
+      define('_CONSUMER_SECRET','34eb4c4240f2494510c59a1b30276561');
 
       require 'src/facebook.php';
 
